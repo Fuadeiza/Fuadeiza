@@ -1,8 +1,8 @@
 
 
-### Adeiza Fuad Garba  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+  
+### Hello, I am Adeiza Fuad Garba  
 </div>  
   
 
