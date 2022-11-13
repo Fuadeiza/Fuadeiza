@@ -1,9 +1,12 @@
+
+
+### Adeiza Fuad Garba  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">👀 I am python developer with years of work experience, I’m interested in anything programming related languages can be learnt so basically backend development, web scraping, Machine learning, NLP, API development and integration, e.t.c  ...</div>  
+### <div align="center">I am python developer with years of work experience, I’m interested in anything programming related languages can be learnt so basically backend development, web scraping, Machine learning, NLP, API development and integration, e.t.c  ...</div>  
   
 
 -  🌱 I’m currently learning to become a DevOps Engineer.  
@@ -116,13 +119,7 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
